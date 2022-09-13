@@ -8,6 +8,9 @@ Değişkenler
 
 **INPUT**: Özeti alınacak veri 8 bitlik bloklara ayrılır.
 
+![](https://github.com/akyunus/boa/blob/acd92f76e641fd9e92cdcf533348b6de185df87d/boa-diagram.png)
+
+
 Algoritma
 ---------
     1- INPUT değerinin her bir 8 bitlik bloğu; INPUT(N) için 2. adımı tekrarla
